@@ -1,0 +1,18 @@
+CREATE TABLE app_user
+(
+  	id INT(3) PRIMARY KEY
+,  	username VARCHAR(20) UNIQUE NOT NULL
+,   real_name VARCHAR(30) NOT NULL
+,   email VARCHAR(80)
+)
+;
+SHOW CREATE TABLE app_user;
+DESC app_user;
+SHOW INDEX FROM app_user;
+
+SELECT
+    TABLE_NAME, INDEX_NAME, COLUMN_NAME, NON_UNIQUE, INDEX_TYPE
+FROM
+    INFORMATION_SCHEMA.STATISTICS
+WHERE
+    TABLE_SCHEMA = 'mysql_intro_sample' AND TABLE_NAME = 'app_user';

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/0_FORMATTER_TEST.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/10_AGGR_SIMPLE.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/11_NULL_CALC.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/12_CASE-WHEN-THEN.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/13_1_EMPLOYEE_DUMMY.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/13_AGGR_FUNCS.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/14_ORDER_BY.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/15_JOIN.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/16_UNION.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/1_init_sample_db.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/2_DDL_SAMPLE.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/3_DML_SAMPLE(simple).sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/4_DML_SAMPLE(with_FK).sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/5_TCL_SAMPLE.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/6_WHERE_N_FUNC.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/7_DATA_TYPES.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/8_CHAR_NUM_CAST.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/9_KEYWORDS.sql" dialect="MySQL" />
+  </component>
+</project>
