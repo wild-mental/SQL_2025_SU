@@ -10,6 +10,8 @@
     <file url="file://$PROJECT_DIR$/14_ORDER_BY.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/15_JOIN.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/16_UNION.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/17_ VIEW.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/18_SUBQUERY.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/1_init_sample_db.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/2_DDL_SAMPLE.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/3_DML_SAMPLE(simple).sql" dialect="MySQL" />
